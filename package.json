@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/1silversnow1/ideal-computing-machine/issues"
   },
-  "homepage": "https://github.com/1silversnow1/ideal-computing-machine#readme"
+  "homepage": "https://github.com/1silversnow1/ideal-computing-machine#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
 }
