@@ -1,0 +1,20 @@
+{
+  "name": "ideal-computing-machine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1silversnow1/ideal-computing-machine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1silversnow1/ideal-computing-machine/issues"
+  },
+  "homepage": "https://github.com/1silversnow1/ideal-computing-machine#readme"
+}
